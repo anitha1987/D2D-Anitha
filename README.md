@@ -20,14 +20,14 @@
 
 ## **Individual Assignment Links**
 
-### [**Data Entry Analysis Link**]() 
+### [**_Data Entry Analysis Link_**]() 
 
 ![DataAnalysis](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Analysis.jpg)
 
  This assignment has the information about how to structure the data files for usability.
 
  
-### [**Data Exploration Link**]() 
+### [**_Data Exploration Link_**]() 
 
 ![DataExploration](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Exploration.jpg)
 
@@ -40,12 +40,12 @@
  
 ## **License Information**
 
-> Here is the link to the [_License Information_](https://github.com/anitha1987/D2D-Anitha/blob/master/LICENSE),click the link to view the detailed information about the MIT licencse that I am using for this project.
+> Here is the link to the [**_License Information_**](https://github.com/anitha1987/D2D-Anitha/blob/master/LICENSE),click the link to view the detailed information about the MIT licencse that I am using for this project.
 
 ## **Author**
 
 **_Anitha Saminathan_**
 
-### **Reference**
+## **Reference**
 
-I have used the [markdownTutorial](https://www.markdowntutorial.com/) to learn the markdown for creating this readme document.
+I have used the [**_markdownTutorial_**](https://www.markdowntutorial.com/) to learn the markdown for creating this readme document.
