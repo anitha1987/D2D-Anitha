@@ -20,7 +20,7 @@
 
 ## **Individual Assignment Links**
 
-### [**_Data Entry Analysis Link_**]() 
+### [**_Data Entry Analysis Link_**](https://github.com/anitha1987/D2D-Anitha/blob/master/Data_Entry_Analysis.md) 
 
 ![DataAnalysis](https://github.com/anitha1987/D2D-Anitha/blob/master/Data-Analysis.jpg)
 
