@@ -16,7 +16,7 @@ We have various data sets for the project, in that I have used the seed related 
 Observation:
  
 ### 3) Scatterplot of FieldID vs Species
-![Scatterplot of FieldID vs Species](https://github.com/priya0318/D2D/blob/master/DataExploration/Scatterplot_Genus_Month.png)
+![Scatterplot of FieldID vs Species]()
 > ggplot(data= seedData) + geom_point(mapping= aes (x=Species, y = Field_ID))
 
 Observation:
