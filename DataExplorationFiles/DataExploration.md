@@ -60,3 +60,5 @@ barplot(Origin.data, main ="Species Origin" , xlab = "Origin", ylab ="Count" , b
 #### _Observation_
 Clearly indicates that **NE and IA** has the high count of species, whereas **MI, MT, SD & TX** has very low count of origin species.
 
+#### _Thanks for your time to review my data exploration assignment work !!_
+
