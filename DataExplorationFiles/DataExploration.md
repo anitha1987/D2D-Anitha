@@ -1,7 +1,7 @@
 
 ## _Data Exploration - NRCS-Xerces Society_
 
-We have various data sets for the project, in that I have used the seed related data for my data exploration assignment. Field_ID column name had some issues while reading in R, so I have modified the csv file columns and used it for this work. Have attached the original file as well as the modified file for reference.
+We have various data sets for the project, in that I have used the seed related data for my data exploration assignment. Field_ID column name had some issues while reading in R, so I have modified the csv file columns and used it for this work.
 
 ### 1) _Scatterplot of Species vs Origin_
 ![Scatterplot of Species vs Origin](https://github.com/anitha1987/D2D-Anitha/blob/master/DataExplorationFiles/Species_vs_Origin.JPG)
@@ -61,4 +61,7 @@ barplot(Origin.data, main ="Species Origin" , xlab = "Origin", ylab ="Count" , b
 Clearly indicates that **NE and IA** has the high count of species, whereas **MI, MT, SD & TX** has very low count of origin species.
 
 #### _Thanks for your time to review my data exploration assignment work !!_
+
+## Author
+Anitha Saminathan
 
